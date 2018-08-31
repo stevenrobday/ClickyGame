@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "src": "/assets/img/baldBull.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "src": "/assets/img/donFlamenco.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "src": "/assets/img/glassJoe.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "src": "/assets/img/greatTiger.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "src": "/assets/img/kingHippo.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "src": "/assets/img/littleMac.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "src": "/assets/img/machoMan.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "src": "/assets/img/mikeTyson.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "src": "/assets/img/pistonHonda.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "src": "/assets/img/sandman.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "src": "/assets/img/sodaPop.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "src": "/assets/img/vonKaiser.png",
+    "clicked": false
+  }
+]

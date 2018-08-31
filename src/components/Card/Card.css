@@ -1,0 +1,13 @@
+.column{
+  box-sizing: border-box;
+  margin: 1vw;
+  width: 20%;
+}
+
+img{
+  border: 5px solid #ffffff;
+  border-radius: 25px;
+  width: 100%;
+  height: auto;
+  cursor: pointer;
+}
