@@ -29,7 +29,7 @@ class App extends Component {
   //handle click event; passes in id of what was clicked
   onClick = id => {
     //get index of what was clicked
-    const index = this.state.cards.findIndex(el => el.id === id);
+    const index = this.state.cards.findIndex(obj => obj.id === id);
 
     //copy deck into temporary array
     let updatedCards = [...this.state.cards];
@@ -46,8 +46,8 @@ class App extends Component {
     //if card was previously clicked...
     else {
       //reset the cards in temp deck
-      updatedCards.forEach(el=>{
-        el.clicked = false;
+      updatedCards.forEach(obj=>{
+        obj.clicked = false;
       });
       //reset the score
       this.setState({ score: 0 })
